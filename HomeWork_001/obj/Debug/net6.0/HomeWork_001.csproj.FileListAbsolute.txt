@@ -1,0 +1,15 @@
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\bin\Debug\net6.0\HomeWork_001.exe
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\bin\Debug\net6.0\HomeWork_001.deps.json
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\bin\Debug\net6.0\HomeWork_001.runtimeconfig.json
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\bin\Debug\net6.0\HomeWork_001.dll
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\bin\Debug\net6.0\HomeWork_001.pdb
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.csproj.AssemblyReference.cache
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.AssemblyInfoInputs.cache
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.AssemblyInfo.cs
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.csproj.CoreCompileInputs.cache
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.dll
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\refint\HomeWork_001.dll
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.pdb
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\HomeWork_001.genruntimeconfig.cache
+C:\Users\Солнце\Desktop\Codyplz\HomeWork(25.06.2022)\HomeWork_001\obj\Debug\net6.0\ref\HomeWork_001.dll
